@@ -1,2 +1,2 @@
 <?php
-echo data['test'];
+echo $data['test'];
